@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>GUADEC 2014</name>
+		<description><![CDATA[Map of Strasbourg, with GUADEC-related points of interest, vegetarian & vegetarian-friendly restaurants, and tourist attractions]]></description>
+		<Folder>
+			<name>GUADEC</name>
+			<Placemark>
+				<styleUrl>#icon-1073</styleUrl>
+				<name>Amitel (default conf. hotel)
+</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.754869,48.577728,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1037</styleUrl>
+				<name>Foyer de l'Etudiant Catholique F.E.C. (sponsored people)
+</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.754487,48.582981,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1037</styleUrl>
+				<name>Hôtel De L'ill (alternate; fully booked)
+</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.75506,48.58063,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1037</styleUrl>
+				<name>Hotel Regent Contades (luxury alt.)
+</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.758382,48.585832,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1211</styleUrl>
+				<name>EPITECH (Ecole pour l'Informatique et les nouvelles Technologies)</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Venue]]></description>
+				<Point>
+					<coordinates>7.749986,48.583537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1455</styleUrl>
+				<name>Train station
+</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.734067,48.585339,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>Entzheim Airport</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.627298999999994,48.544652,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Food</name>
+			<Placemark>
+				<styleUrl>#icon-1021</styleUrl>
+				<name>Au Potiron</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Moderate-- Lacto, Ovo, French, Western, Pizza--- Additional Info: Vegetarian food with a few dishes adapted for vegans upon request (gratins, pizzas, etc). Reservation suggested. Open Mon-Sat 12-2pm, 7-10:30pm.-- Rating: 4 HappyCow(s)]]></description>
+				<Point>
+					<coordinates>7.754719,48.5789,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1021</styleUrl>
+				<name>Bistrot et Chocolat</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Moderate-- Vegan-friendly, Ovo, Lacto, Organic, International, Catering, Beer/Wine--- Additional Info: Vegetarian bistro with chocolate desserts. Has some vegan options. Has pastry workshops for children. Has outdoor seating. Wheelchair accessible. Accepts credit cards. Open Tue-Fri 11am-7pm, Sat-Sun 10am-7pm, closed Mon.-- Rating: 3.5 HappyCow(s)]]></description>
+				<Point>
+					<coordinates>7.752896,48.581576,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1085</styleUrl>
+				<name>L'essentiel chez Raphaël</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Moderate-- Vegan-friendly, Ovo, Lacto, French, Organic, Juice bar, Beer/Wine, Take-out, Delivery, Non-veg--- Additional Info: Serves meat, veg options available. Mon/Wed/Thur specials are vegetarian and sometimes vegan. Vegan dishes available a la carte regularly. Artistic atmosphere with painting exhibitions and possible musical performances. Holds conferences once a month on Thursdays about naturopathy or feeding (in French). Uses 100% organically grown products (including beverages), most of which are locally grown. Has an outdoor terrace. Has outdoor seating. Wheelchair accessible. Accepts credit cards. Open Mon-Fri 12-2pm, 7-10pm, Sat 7-10:30pm, closed Sun.-- Rating: 2.5 HappyCow(s)]]></description>
+				<Point>
+					<coordinates>7.757789,48.579356,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1085</styleUrl>
+				<name>Une Fleur des Champs</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Moderate-- Vegan-friendly, Organic, Macrobiotic, Non-veg--- Additional Info: Serves meat, veg options available. A natural-oriented restaurant offering two menus, one being vegetarian (confirm vegan options). Besides the menu, you can find vegan dishes, like seitan escalope (confirm ingredients). Serves vegan ice cream and cakes except for one cake which is made with white chocolate.]]></description>
+				<Point>
+					<coordinates>7.751441,48.584386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1085</styleUrl>
+				<name>La Pause Quinoa</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Inexpensive-- Vegan-friendly, International, Fast food, Take-out, Non-veg--- Additional Info: Serves meat, veg options available. Fast food restaurant that offers gluten-free quinoa specialties, dairy-free desserts and vegan meals like salads, soups and quinoa meals served in a box. There are two vegan inboxes: Indian (quinoa, lentil dhal and vegetables) and couscous with vegetables which are cooked separately from meat. Vegan cakes are available. Dine-in or take-out. Has outdoor seating. Accepts credit cards. Open Mon 11:30am-2:30pm, Tue-Fri 11:30am-2:30pm, 6-9pm, Sat 11:30am-3pm, 6-9pm, closed Sun.-- Rating: 4 HappyCow(s)]]></description>
+				<Point>
+					<coordinates>7.742787,48.583819,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1085</styleUrl>
+				<name>Lacocina</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Inexpensive-- Vegan-friendly, International, Mexican, Non-veg--- Additional Info: Serves meat, veg options available. Has vegetarian options which can be made vegan by omitting cheese. Staff speaks some English. Has outdoor seating. Accepts credit cards. Open Mon-Sat 11:45am-10pm, closed Sun.-- Rating: 4 HappyCow(s)]]></description>
+				<Point>
+					<coordinates>7.739085,48.582602,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Tourism</name>
+			<Placemark>
+				<styleUrl>#icon-1199</styleUrl>
+				<name>Office de tourisme de Strasbourg et de sa region</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[open 09h00 to 19h00 — 
+The tourist office sells a variety of self-guided walking tours through the town (Middle Ages, Renaissance, Modern and Contemporary) for €1 each, and also arranges bike tours through the Faubourgs (the suburbs of Neudorf and Neuhof). Maps, brochures and last minute accommodation are also available.]]></description>
+				<Point>
+					<coordinates>7.753601,48.574563,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1193</styleUrl>
+				<name>Notre Dame of Strasbourg Cathedral</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Built between 1176 and 1439 and with a 142 metre tower (the highest cathedral tower in France), the Gothic cathedral is undoubtedly Strasbourg's finest architectural highlight.]]></description>
+				<Point>
+					<coordinates>7.750681,48.581821,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-993</styleUrl>
+				<name>Kammerzell House</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[(XVth century) (to the left of the front of the cathedral) – The intricately carved half-timbered frames decorating the upper floors date from 1589.]]></description>
+				<Point>
+					<coordinates>7.74965,48.582062,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1107</styleUrl>
+				<name>Strasbourg Museum of Modern and Contemporary Art</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Tuesday, Wednesday, Thursday and Friday from 10am to 6pm
+Closed on Monday 
+The museum houses extensive collections of paintings, sculpture, graphic arts, multimedia and design from the period between 1870 (Impressionism) and today, as well as a wide range of pieces in its photographic library. It owns a total of 18,000 works.]]></description>
+				<Point>
+					<coordinates>7.736085,48.579378,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1107</styleUrl>
+				<name>Palais Rohan</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[French-style palace, built after the acquisition of the town by the French (1681). Home to the Museum of Fine Arts, the Archaeological Museum and the Museum of Applied Arts.]]></description>
+				<Point>
+					<coordinates>7.752534,48.58084,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-993</styleUrl>
+				<name>Petite-France</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Petite France is the name given to the small area between the rivers, just south of the Grande Île. It is home to some of Strasbourg's prettiest and most photogenic streets and buildings, with half timbered townhouses leaning out over the narrow cobbled streets. Petite France resembles Colmar (a city an hour south), with picturesque canal and half-timber houses.]]></description>
+				<Point>
+					<coordinates>7.74063,48.580923,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-993</styleUrl>
+				<name>Parc de l'Orangerie</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[a beautiful classical park. It has a small free zoo featuring birds and a few other animals.]]></description>
+				<Point>
+					<coordinates>7.776192,48.591422,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-993</styleUrl>
+				<name>Place de la République</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[A central crossroad encircled by neoclassical public buildings]]></description>
+				<Point>
+					<coordinates>7.7546391,48.5877034,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1379</styleUrl>
+				<name>Jardin botanique de l'Université de Strasbourg</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Botanical gardens; open daily. 15,000 specimens representing more than 6,000 species of plants. The garden consists of 9 plots surrounding the Institute of Botany: an arboretum, tropical greenhouse, cold greenhouse, the Bary Greenhouse, a greenhouse of grasses, a pond, the systematic garden, ecological plantings, and useful plants.]]></description>
+				<Point>
+					<coordinates>7.766716,48.584283,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1021'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1021-biz-flower.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1073'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1073-biz-real-estate.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1085'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1107'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1107-biz-theater.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1193'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1193-fac-animal-shelter.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1199'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1211'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1211-fac-poi.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1379'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1379-rec-park.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1417'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1455'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1455-trans-steam-train.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-993'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

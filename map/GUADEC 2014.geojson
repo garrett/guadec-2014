@@ -1,0 +1,373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754869,
+          48.577728,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Amitel (default conf. hotel)\n",
+        "styleUrl": "#icon-1073",
+        "styleHash": "5fd2024a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754487,
+          48.582981,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Foyer de l'Etudiant Catholique F.E.C. (sponsored people)\n",
+        "styleUrl": "#icon-1037",
+        "styleHash": "70b07e4f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75506,
+          48.58063,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hôtel De L'ill (alternate; fully booked)\n",
+        "styleUrl": "#icon-1037",
+        "styleHash": "70b07e4f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.758382,
+          48.585832,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hotel Regent Contades (luxury alt.)\n",
+        "styleUrl": "#icon-1037",
+        "styleHash": "70b07e4f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749986,
+          48.583537,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EPITECH (Ecole pour l'Informatique et les nouvelles Technologies)",
+        "styleUrl": "#icon-1211",
+        "styleHash": "d917dee",
+        "description": "Venue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.734067,
+          48.585339,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Train station\n",
+        "styleUrl": "#icon-1455",
+        "styleHash": "6a5c880f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627298999999994,
+          48.544652,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Entzheim Airport",
+        "styleUrl": "#icon-1417",
+        "styleHash": "df3c4f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754719,
+          48.5789,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Au Potiron",
+        "styleUrl": "#icon-1021",
+        "styleHash": "240ba656",
+        "description": "Moderate-- Lacto, Ovo, French, Western, Pizza--- Additional Info: Vegetarian food with a few dishes adapted for vegans upon request (gratins, pizzas, etc). Reservation suggested. Open Mon-Sat 12-2pm, 7-10:30pm.-- Rating: 4 HappyCow(s)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752896,
+          48.581576,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bistrot et Chocolat",
+        "styleUrl": "#icon-1021",
+        "styleHash": "240ba656",
+        "description": "Moderate-- Vegan-friendly, Ovo, Lacto, Organic, International, Catering, Beer/Wine--- Additional Info: Vegetarian bistro with chocolate desserts. Has some vegan options. Has pastry workshops for children. Has outdoor seating. Wheelchair accessible. Accepts credit cards. Open Tue-Fri 11am-7pm, Sat-Sun 10am-7pm, closed Mon.-- Rating: 3.5 HappyCow(s)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.757789,
+          48.579356,
+          0
+        ]
+      },
+      "properties": {
+        "name": "L'essentiel chez Raphaël",
+        "styleUrl": "#icon-1085",
+        "styleHash": "1de98702",
+        "description": "Moderate-- Vegan-friendly, Ovo, Lacto, French, Organic, Juice bar, Beer/Wine, Take-out, Delivery, Non-veg--- Additional Info: Serves meat, veg options available. Mon/Wed/Thur specials are vegetarian and sometimes vegan. Vegan dishes available a la carte regularly. Artistic atmosphere with painting exhibitions and possible musical performances. Holds conferences once a month on Thursdays about naturopathy or feeding (in French). Uses 100% organically grown products (including beverages), most of which are locally grown. Has an outdoor terrace. Has outdoor seating. Wheelchair accessible. Accepts credit cards. Open Mon-Fri 12-2pm, 7-10pm, Sat 7-10:30pm, closed Sun.-- Rating: 2.5 HappyCow(s)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751441,
+          48.584386,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Une Fleur des Champs",
+        "styleUrl": "#icon-1085",
+        "styleHash": "1de98702",
+        "description": "Moderate-- Vegan-friendly, Organic, Macrobiotic, Non-veg--- Additional Info: Serves meat, veg options available. A natural-oriented restaurant offering two menus, one being vegetarian (confirm vegan options). Besides the menu, you can find vegan dishes, like seitan escalope (confirm ingredients). Serves vegan ice cream and cakes except for one cake which is made with white chocolate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.742787,
+          48.583819,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Pause Quinoa",
+        "styleUrl": "#icon-1085",
+        "styleHash": "1de98702",
+        "description": "Inexpensive-- Vegan-friendly, International, Fast food, Take-out, Non-veg--- Additional Info: Serves meat, veg options available. Fast food restaurant that offers gluten-free quinoa specialties, dairy-free desserts and vegan meals like salads, soups and quinoa meals served in a box. There are two vegan inboxes: Indian (quinoa, lentil dhal and vegetables) and couscous with vegetables which are cooked separately from meat. Vegan cakes are available. Dine-in or take-out. Has outdoor seating. Accepts credit cards. Open Mon 11:30am-2:30pm, Tue-Fri 11:30am-2:30pm, 6-9pm, Sat 11:30am-3pm, 6-9pm, closed Sun.-- Rating: 4 HappyCow(s)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739085,
+          48.582602,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lacocina",
+        "styleUrl": "#icon-1085",
+        "styleHash": "1de98702",
+        "description": "Inexpensive-- Vegan-friendly, International, Mexican, Non-veg--- Additional Info: Serves meat, veg options available. Has vegetarian options which can be made vegan by omitting cheese. Staff speaks some English. Has outdoor seating. Accepts credit cards. Open Mon-Sat 11:45am-10pm, closed Sun.-- Rating: 4 HappyCow(s)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.753601,
+          48.574563,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Office de tourisme de Strasbourg et de sa region",
+        "styleUrl": "#icon-1199",
+        "styleHash": "1d820de7",
+        "description": "open 09h00 to 19h00 — \nThe tourist office sells a variety of self-guided walking tours through the town (Middle Ages, Renaissance, Modern and Contemporary) for €1 each, and also arranges bike tours through the Faubourgs (the suburbs of Neudorf and Neuhof). Maps, brochures and last minute accommodation are also available."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.750681,
+          48.581821,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Notre Dame of Strasbourg Cathedral",
+        "styleUrl": "#icon-1193",
+        "styleHash": "34c18bfa",
+        "description": "Built between 1176 and 1439 and with a 142 metre tower (the highest cathedral tower in France), the Gothic cathedral is undoubtedly Strasbourg's finest architectural highlight."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74965,
+          48.582062,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kammerzell House",
+        "styleUrl": "#icon-993",
+        "styleHash": "7515ddfe",
+        "description": "(XVth century) (to the left of the front of the cathedral) – The intricately carved half-timbered frames decorating the upper floors date from 1589."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.736085,
+          48.579378,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Strasbourg Museum of Modern and Contemporary Art",
+        "styleUrl": "#icon-1107",
+        "styleHash": 17899200,
+        "description": "Tuesday, Wednesday, Thursday and Friday from 10am to 6pm\nClosed on Monday \nThe museum houses extensive collections of paintings, sculpture, graphic arts, multimedia and design from the period between 1870 (Impressionism) and today, as well as a wide range of pieces in its photographic library. It owns a total of 18,000 works."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752534,
+          48.58084,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Palais Rohan",
+        "styleUrl": "#icon-1107",
+        "styleHash": 17899200,
+        "description": "French-style palace, built after the acquisition of the town by the French (1681). Home to the Museum of Fine Arts, the Archaeological Museum and the Museum of Applied Arts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74063,
+          48.580923,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Petite-France",
+        "styleUrl": "#icon-993",
+        "styleHash": "7515ddfe",
+        "description": "Petite France is the name given to the small area between the rivers, just south of the Grande Île. It is home to some of Strasbourg's prettiest and most photogenic streets and buildings, with half timbered townhouses leaning out over the narrow cobbled streets. Petite France resembles Colmar (a city an hour south), with picturesque canal and half-timber houses."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.776192,
+          48.591422,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Parc de l'Orangerie",
+        "styleUrl": "#icon-993",
+        "styleHash": "7515ddfe",
+        "description": "a beautiful classical park. It has a small free zoo featuring birds and a few other animals."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7546391,
+          48.5877034,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Place de la République",
+        "styleUrl": "#icon-993",
+        "styleHash": "7515ddfe",
+        "description": "A central crossroad encircled by neoclassical public buildings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766716,
+          48.584283,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jardin botanique de l'Université de Strasbourg",
+        "styleUrl": "#icon-1379",
+        "styleHash": "-2f316fb8",
+        "description": "Botanical gardens; open daily. 15,000 specimens representing more than 6,000 species of plants. The garden consists of 9 plots surrounding the Institute of Botany: an arboretum, tropical greenhouse, cold greenhouse, the Bary Greenhouse, a greenhouse of grasses, a pond, the systematic garden, ecological plantings, and useful plants."
+      }
+    }
+  ]
+}
